@@ -1,0 +1,65 @@
+==========
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 0.9999999999999396
+using scale 1.0000000000000604
+start solving BM...
+done!
+BM used 1/4 ops.
+With rank constraint: got a solution with gamma factor 0.9999999999833399
+0.0
+added 1 new ops
+==========
+==========
+current dn: 0.002705542457872339 with c_factor 1.002705542457176
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 0.002705540688977436
+using scale 369.61188721872514
+start solving BM...
+done!
+BM used 3/4 ops.
+With rank constraint: got a solution with gamma factor 0.002705541763228569
+0.0
+8.363739034781592e-09
+0.10447091715130084
+added 3 new ops
+==========
+==========
+current dn: 4.806365125741009e-05 with c_factor 1.0054833862502435
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 4.806695737494365e-05
+using scale 20804.312455218565
+start solving BM...
+done!
+BM used 4/4 ops.
+With rank constraint: got a solution with gamma factor 4.806695737494365e-05
+4.733575152249163e-09
+2.1176168102267123e-08
+1.5429499196785006e-07
+1.2293712153654472e-06
+added 4 new ops
+==========
+==========
+current dn: 5.207868980331364e-07 with c_factor 1.0055743487523765
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 5.040812345341694e-07
+using scale 1983807.2348083302
+start solving BM...
+/home/noname/workspace/venvs/master_thesis/lib/python3.8/site-packages/scipy/optimize/_hessian_update_strategy.py:182: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+  warn('delta_grad == 0.0. Check if the approximated '
+done!
+BM used 4/4 ops.
+With rank constraint: got a solution with gamma factor 5.040812345341694e-07
+0.008871955923102803
+0.004616445520345855
+0.0016198706710497622
+0.030625849313081276
+added 4 new ops
+==========
+==========
+current dn: 7.666074849647217e-10 with c_factor 1.0055804327266828
+FINAL RESULT: cfactor = 1.005574463209178
+

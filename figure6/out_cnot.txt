@@ -1,0 +1,77 @@
+==========
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 1.0000000000000733
+using scale 0.9999999999999267
+start solving BM...
+done!
+BM used 1/16 ops.
+With rank constraint: got a solution with c factor 0.9999999999303242
+added 1 new ops
+==========
+==========
+current dn: 0.031102744141666073 with c_factor 1.030484948034753
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 0.03110274294267539
+using scale 32.15150515319734
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with c factor 0.034650823531876464
+added 16 new ops
+==========
+==========
+current dn: 0.004038771580653574 with c_factor 1.0758109289353157
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 0.004038767218520413
+using scale 247.60030620589868
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with c factor 0.004492304251429757
+added 16 new ops
+==========
+==========
+current dn: 0.00035862078629081184 with c_factor 1.0810035813444208
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 0.0003586238035156833
+using scale 2788.4373267940873
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with c factor 0.0004013804419642313
+added 16 new ops
+==========
+==========
+current dn: 2.515689649341933e-05 with c_factor 1.0814857607193618
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 2.514232801896321e-05
+using scale 39773.5642954688
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with c factor 2.809525343361069e-05
+added 16 new ops
+==========
+==========
+current dn: 1.4567221275703946e-06 with c_factor 1.081520212495612
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with c factor 1.4484877763204278e-06
+using scale 690375.1735760486
+start solving BM...
+/home/noname/workspace/venvs/master_thesis/lib/python3.8/site-packages/scipy/optimize/_hessian_update_strategy.py:182: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+  warn('delta_grad == 0.0. Check if the approximated '
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with c factor 1.6250413850070223e-06
+added 16 new ops
+==========
+==========
+current dn: 6.02040927971054e-08 with c_factor 1.0815222325861207
+FINAL RESULT: cfactor = 1.0815219582400142
+STINESPRING: 1.0815219582400142

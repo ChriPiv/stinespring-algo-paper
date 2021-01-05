@@ -1,0 +1,87 @@
+==========
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 1.0000000000003322
+using scale 0.9999999999996678
+start solving BM...
+done!
+BM used 1/16 ops.
+With rank constraint: got a solution with gamma factor 0.9999999999474697
+added 1 new ops
+==========
+==========
+current dn: 0.09310967570120603 with c_factor 1.0912005162433682
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 0.09310964459979455
+using scale 10.74002595862348
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 0.10319874540322563
+added 16 new ops
+==========
+==========
+current dn: 0.009636916535298558 with c_factor 1.2148004983595615
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 0.009636920739823055
+using scale 103.76758582932592
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 0.010780947150265134
+added 16 new ops
+==========
+==========
+current dn: 0.0008533404474038529 with c_factor 1.2280656731389663
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 0.000853333582382494
+using scale 1171.874657983125
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 0.0009563589999270862
+added 16 new ops
+==========
+==========
+current dn: 6.12248559322307e-05 with c_factor 1.2292802477496385
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 6.120668740175727e-05
+using scale 16338.083997849059
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 6.862425861108e-05
+added 16 new ops
+==========
+==========
+current dn: 4.081308986629326e-06 with c_factor 1.2293659468858
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 4.084876483844657e-06
+using scale 244805.44367863162
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 4.571932687099919e-06
+added 16 new ops
+==========
+==========
+current dn: 2.372185229109708e-07 with c_factor 1.229371561810503
+start solving (w/out rank constraint)...
+done!
+Without rank constraint: got a solution with gamma factor 2.1849188126928854e-07
+using scale 4576829.098594801
+start solving BM...
+done!
+BM used 16/16 ops.
+With rank constraint: got a solution with gamma factor 2.4776815837244175e-07
+added 16 new ops
+==========
+==========
+current dn: 9.421773413540917e-09 with c_factor 1.2293718543516707
+FINAL RESULT: cfactor = 1.2293726338097561
+STINESPRING: 1.2293726338097561

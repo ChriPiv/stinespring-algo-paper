@@ -1,0 +1,4 @@
+plots/*
+!plots/.gitkeep
+data/*
+!data/.gitkeep
