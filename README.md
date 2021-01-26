@@ -1,4 +1,4 @@
-This repository contains all code to reproduce the data and figure for the paper TODO. 
+This repository contains all the code to reproduce the data and figures for the paper _Quasiprobability decompositions with reduced sampling overhead_ by Christophe Piveteau, David Sutter and Stefan Woerner ([https://arxiv.org/abs/2101.09290](https://arxiv.org/abs/2101.09290)).
 
 
 Setup
